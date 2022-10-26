@@ -4,6 +4,18 @@
 
 For self-driving cars as well as conventional computer vision, lane detection is a critical component. This project aims to identify lanes and steer the robot along the detected path. We will be using live camera feeds or video frames and different computer vision techniques to detect lanes algorithms on a ground robot.
 
+### ROS - Robot Operating System
+
+We learned about basic ROS commands and did some task to get familiar on how to move the turtlebot later in the project.
+
+We learned:
+* ROS Topics, Nodes, Messages
+* Publisher & Subscriber
+* ROS Services
+* RQT Graphs
+
+We used this knowledge to trace some basic shapes and other task on TurtleSim to get familiar on how to subscribe and publish from any ROS topic.
+
 ### Turtlesim
 
 We did the following task in Turtlesim:
